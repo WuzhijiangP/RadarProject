@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: d4afb0fe6066e724fbe4da6ba642f39f
+  - enabled: 1
+    path: Assets/Scenes/SelectScene.unity
+    guid: e425ac30788576643a0d88134d9e78b4
+  - enabled: 1
+    path: Assets/Scenes/PlaneSelectScene.unity
+    guid: fc25a7ce727142749bf78f46c8e0e449
+  - enabled: 1
+    path: Assets/Scenes/RedarSelectScene.unity
+    guid: f0adf849ec65d114eb18a5a9f581754e
+  - enabled: 1
+    path: Assets/Scenes/SeaLandSelectScene.unity
+    guid: 3eb8ec557321c9743937404b3b03fadd
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SettingScene.unity
+    guid: 14396942bada643479cfbf1c94c12b6f
+  - enabled: 1
+    path: Assets/Scenes/CreateRadar.unity
+    guid: 8cf24b0a9fccee94bbd1c7e2a6ae3dbe
+  - enabled: 1
+    path: Assets/Scenes/CreatePlane.unity
+    guid: f224af717c525be438f63863b206aba0
+  - enabled: 1
+    path: Assets/Scenes/CreateScene.unity
+    guid: a927fdb5524adb84480f0843a7a7cc86
+  - enabled: 1
+    path: Assets/Scenes/CreateJammer.unity
+    guid: da2a21feb661ceb46832ac6ee6adaa11
+  - enabled: 1
+    path: Assets/Scenes/PlayScene.unity
+    guid: 263199f0a40633d458934953f504d147
+  m_configObjects: {}
